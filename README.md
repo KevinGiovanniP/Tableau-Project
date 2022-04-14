@@ -8,5 +8,5 @@ in this link you will see my tableau projects which consist of :
 2. Video Games sales visualization using multiple console type or pc type games data
 
 <!-- Access MY TABLEAU PUBLIC LINK BELOW -->
-## tableau link
+## Tableau Link
 https://public.tableau.com/app/profile/kevin2477
